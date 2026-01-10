@@ -5,7 +5,7 @@ A lightweight, interactive data visualization dashboard exploring how Netflix’
 Built to demonstrate data storytelling, front-end visualization, and analytical thinking through clean, performant visual components.
 
 ## Live Demo
-[👉 https://YOUR-VERCEL-LINK.vercel.app
+[https://netflix-catalog-dashboard.vercel.app
 ](https://netflix-catalog-dashboard.vercel.app/)
 
 ## What this explores
