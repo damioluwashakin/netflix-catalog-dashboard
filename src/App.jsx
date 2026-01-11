@@ -363,7 +363,16 @@ onMouseLeave={() => setActiveGenre(null)}
       </>
     )}
  <p style={{ marginTop: "auto", fontSize: 12, opacity: 0.55 }}>
-  Data source:{" "}
+  Built by{" "}
+  <a
+    href="https://www.linkedin.com/in/damilola-oluwashakin-0b772b287/"
+    target="_blank"
+    rel="noreferrer"
+    style={{ color: "inherit", textDecoration: "none", fontWeight: 500 }}
+  >
+    Damilola Oluwashakin
+  </a>{" "}
+  · Data source:{" "}
   <a
     href="https://www.kaggle.com/datasets/shivamb/netflix-shows"
     target="_blank"
@@ -376,6 +385,5 @@ onMouseLeave={() => setActiveGenre(null)}
 
   </div>
   
-
 );
 }
